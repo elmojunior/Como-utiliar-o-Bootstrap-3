@@ -1,3 +1,3 @@
-# Como utiliar o Bootstrap
+# Como utiliar o Bootstrap 3
 
 Este código foi desenvolvido através da videoaula de como utilizar o Bootstrap, que está presente no YouTube em: https://www.youtube.com/watch?v=8TDJhOO8un4
